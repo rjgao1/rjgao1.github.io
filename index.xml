@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rooney Jingyuan Gao</title>
-    <link>https://rjgao1.github.io/</link>
+    <link>rjgao.me/</link>
     <description>Recent content on Rooney Jingyuan Gao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
-	<atom:link href="https://rjgao1.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="rjgao.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://rjgao1.github.io/projects/</link>
+      <link>rjgao.me/projects/</link>
       <pubDate>Sun, 14 Jun 2020 03:32:07 -0400</pubDate>
       
-      <guid>https://rjgao1.github.io/projects/</guid>
+      <guid>rjgao.me/projects/</guid>
       <description>Homeless Shelter Capacity Monitor
 AFK, grabbing lunch, more to come!</description>
     </item>
     
     <item>
       <title>Capacity Monitor</title>
-      <link>https://rjgao1.github.io/capacity-monitor/</link>
+      <link>rjgao.me/capacity-monitor/</link>
       <pubDate>Sun, 14 Jun 2020 03:26:48 -0400</pubDate>
       
-      <guid>https://rjgao1.github.io/capacity-monitor/</guid>
+      <guid>rjgao.me/capacity-monitor/</guid>
       <description>Code This open source project&amp;rsquo;s code is not available to the public lives here
 Credits this amazing blog from pysource . this amazing blog from pyimagesearch .
 example tensorflow usage from medium user @@madhawavidanapathirana .
@@ -36,10 +36,10 @@ Description Our application: Our application detects and tracks humans from a li
     
     <item>
       <title>Education</title>
-      <link>https://rjgao1.github.io/education/</link>
+      <link>rjgao.me/education/</link>
       <pubDate>Sun, 14 Jun 2020 02:20:49 -0400</pubDate>
       
-      <guid>https://rjgao1.github.io/education/</guid>
+      <guid>rjgao.me/education/</guid>
       <description>--  University of Toronto, St. George Honours Bachelor of Science Year 4, aGPA: 3.86/4.0
 Specialist: Computer Science, Major: Statistics, Minor: Math 09/2016 &amp;ndash; 01/2021
 Courseworks include: Deep Learning &amp;amp; Neural Networks, Probabilistic Learning, Nonlinear Optimiazation, Operating Systems, Software Engineering, Algorithms &amp;amp; Data Structures</description>
@@ -47,10 +47,10 @@ Courseworks include: Deep Learning &amp;amp; Neural Networks, Probabilistic Lear
     
     <item>
       <title>Work</title>
-      <link>https://rjgao1.github.io/work/</link>
+      <link>rjgao.me/work/</link>
       <pubDate>Sat, 13 Jun 2020 22:07:51 -0400</pubDate>
       
-      <guid>https://rjgao1.github.io/work/</guid>
+      <guid>rjgao.me/work/</guid>
       <description>--  Demonware - Activision Blizzard Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware provide services such as matchmaking, in-game purchase and social networking, producing 133,000+ metrics a second and impacting almost half of billion players&amp;rsquo; online gameplay experience.
 Software Engineering Intern 05/2020 &amp;ndash; present Vancouver, ON
  Wiriting scalable distributed web services for massive online multiplayer video games such as Call of Duty: Warzone and Call of Duty: Modern Warfare.</description>

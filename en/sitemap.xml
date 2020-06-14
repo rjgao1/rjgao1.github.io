@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rjgao1.github.io/projects/</loc>
+    <loc>rjgao.me/projects/</loc>
     <lastmod>2020-06-14T03:32:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/capacity-monitor/</loc>
+    <loc>rjgao.me/capacity-monitor/</loc>
     <lastmod>2020-06-14T03:26:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/education/</loc>
+    <loc>rjgao.me/education/</loc>
     <lastmod>2020-06-14T02:20:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/work/</loc>
+    <loc>rjgao.me/work/</loc>
     <lastmod>2020-06-13T22:07:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/categories/</loc>
+    <loc>rjgao.me/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rjgao1.github.io/fr/categories/"
+                href="rjgao.me/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rjgao1.github.io/categories/"
+                href="rjgao.me/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/</loc>
+    <loc>rjgao.me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rjgao1.github.io/fr/"
+                href="rjgao.me/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rjgao1.github.io/"
+                href="rjgao.me/"
                 />
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/series/</loc>
+    <loc>rjgao.me/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rjgao1.github.io/fr/series/"
+                href="rjgao.me/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rjgao1.github.io/series/"
+                href="rjgao.me/series/"
                 />
   </url>
   
   <url>
-    <loc>https://rjgao1.github.io/tags/</loc>
+    <loc>rjgao.me/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rjgao1.github.io/fr/tags/"
+                href="rjgao.me/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rjgao1.github.io/tags/"
+                href="rjgao.me/tags/"
                 />
   </url>
   
