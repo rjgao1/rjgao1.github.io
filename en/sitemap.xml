@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/projects/</loc>
+    <loc>https://rjgao1.github.io/projects/</loc>
     <lastmod>2020-06-14T03:32:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/projectss/capacity-monitor/</loc>
+    <loc>https://rjgao1.github.io/projectss/capacity-monitor/</loc>
     <lastmod>2020-06-14T03:26:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/projectss/</loc>
+    <loc>https://rjgao1.github.io/projectss/</loc>
     <lastmod>2020-06-14T03:26:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://rjgao1.github.io/</loc>
     <lastmod>2020-06-14T03:26:48-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/"
+                href="https://rjgao1.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/"
+                href="https://rjgao1.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/education/</loc>
+    <loc>https://rjgao1.github.io/education/</loc>
     <lastmod>2020-06-14T02:20:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/work/</loc>
+    <loc>https://rjgao1.github.io/work/</loc>
     <lastmod>2020-06-13T22:07:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://rjgao1.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/categories/"
+                href="https://rjgao1.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/categories/"
+                href="https://rjgao1.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/series/</loc>
+    <loc>https://rjgao1.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/series/"
+                href="https://rjgao1.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/series/"
+                href="https://rjgao1.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://rjgao1.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/tags/"
+                href="https://rjgao1.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/tags/"
+                href="https://rjgao1.github.io/tags/"
                 />
   </url>
   

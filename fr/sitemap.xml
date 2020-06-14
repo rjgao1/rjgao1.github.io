@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/fr/categories/</loc>
+    <loc>https://rjgao1.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/categories/"
+                href="https://rjgao1.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/categories/"
+                href="https://rjgao1.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/fr/</loc>
+    <loc>https://rjgao1.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/"
+                href="https://rjgao1.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/"
+                href="https://rjgao1.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/fr/series/</loc>
+    <loc>https://rjgao1.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/series/"
+                href="https://rjgao1.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/series/"
+                href="https://rjgao1.github.io/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/fr/tags/</loc>
+    <loc>https://rjgao1.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/tags/"
+                href="https://rjgao1.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/fr/tags/"
+                href="https://rjgao1.github.io/fr/tags/"
                 />
   </url>
   
