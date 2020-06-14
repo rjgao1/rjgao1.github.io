@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 14 Jun 2020 03:26:48 -0400</lastBuildDate>
     
 	<atom:link href="https://rjgao1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,10 +23,10 @@ AFK, grabbing lunch, more to come!</description>
     
     <item>
       <title>Capacity Monitor</title>
-      <link>https://rjgao1.github.io/projectss/capacity-monitor/</link>
+      <link>https://rjgao1.github.io/capacity-monitor/</link>
       <pubDate>Sun, 14 Jun 2020 03:26:48 -0400</pubDate>
       
-      <guid>https://rjgao1.github.io/projectss/capacity-monitor/</guid>
+      <guid>https://rjgao1.github.io/capacity-monitor/</guid>
       <description>Code This open source project&amp;rsquo;s code is not available to the public lives here
 Credits this amazing blog from pysource . this amazing blog from pyimagesearch .
 example tensorflow usage from medium user @@madhawavidanapathirana .
@@ -53,7 +52,7 @@ Courseworks include: Deep Learning &amp;amp; Neural Networks, Probabilistic Lear
       
       <guid>https://rjgao1.github.io/work/</guid>
       <description>--  Demonware - Activision Blizzard Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware provide services such as matchmaking, in-game purchase and social networking, producing 133,000+ metrics a second and impacting almost half of billion players&amp;rsquo; online gameplay experience.
-Software Engineering Intern 05/2020 &amp;ndash; present
+Software Engineering Intern 05/2020 &amp;ndash; present Vancouver, ON
  Wiriting scalable distributed web services for massive online multiplayer video games such as Call of Duty: Warzone and Call of Duty: Modern Warfare.</description>
     </item>
     
