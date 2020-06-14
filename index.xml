@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rooney Jingyuan Gao</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Rooney Jingyuan Gao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 14 Jun 2020 03:26:48 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost/projects/</link>
+      <pubDate>Sun, 14 Jun 2020 03:32:07 -0400</pubDate>
+      
+      <guid>http://localhost/projects/</guid>
+      <description>Homeless Shelter Capacity Monitor
+AFK, grabbing lunch, more to come!</description>
+    </item>
+    
+    <item>
+      <title>Capacity Monitor</title>
+      <link>http://localhost/projectss/capacity-monitor/</link>
+      <pubDate>Sun, 14 Jun 2020 03:26:48 -0400</pubDate>
+      
+      <guid>http://localhost/projectss/capacity-monitor/</guid>
+      <description>Code This open source project&amp;rsquo;s code is not available to the public lives here
+Credits this amazing blog from pysource . this amazing blog from pyimagesearch .
+example tensorflow usage from medium user @@madhawavidanapathirana .
+pretrained models provided by this:
+Description Our application: Our application detects and tracks humans from a live or recorded video feed, and keeps track of a counter for the number of times people enter and leave a space.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost/education/</link>
+      <pubDate>Sun, 14 Jun 2020 02:20:49 -0400</pubDate>
+      
+      <guid>http://localhost/education/</guid>
+      <description>--  University of Toronto, St. George Honours Bachelor of Science Year 4, aGPA: 3.86/4.0
+Specialist: Computer Science, Major: Statistics, Minor: Math 09/2016 &amp;ndash; 01/2021
+Courseworks include: Deep Learning &amp;amp; Neural Networks, Probabilistic Learning, Nonlinear Optimiazation, Operating Systems, Software Engineering, Algorithms &amp;amp; Data Structures</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost/work/</link>
+      <pubDate>Sat, 13 Jun 2020 22:07:51 -0400</pubDate>
+      
+      <guid>http://localhost/work/</guid>
+      <description>--  Demonware - Activision Blizzard Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware provide services such as matchmaking, in-game purchase and social networking, producing 133,000+ metrics a second and impacting almost half of billion players&amp;rsquo; online gameplay experience.
+Software Engineering Intern 05/2020 &amp;ndash; present
+ Wiriting scalable distributed web services for massive online multiplayer video games such as Call of Duty: Warzone and Call of Duty: Modern Warfare.</description>
+    </item>
+    
+  </channel>
+</rss>

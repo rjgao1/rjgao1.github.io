@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projectsses on Rooney Jingyuan Gao</title>
+    <link>http://localhost/projectss/</link>
+    <description>Recent content in Projectsses on Rooney Jingyuan Gao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 14 Jun 2020 03:26:48 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost/projectss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capacity Monitor</title>
+      <link>http://localhost/projectss/capacity-monitor/</link>
+      <pubDate>Sun, 14 Jun 2020 03:26:48 -0400</pubDate>
+      
+      <guid>http://localhost/projectss/capacity-monitor/</guid>
+      <description>Code This open source project&amp;rsquo;s code is not available to the public lives here
+Credits this amazing blog from pysource . this amazing blog from pyimagesearch .
+example tensorflow usage from medium user @@madhawavidanapathirana .
+pretrained models provided by this:
+Description Our application: Our application detects and tracks humans from a live or recorded video feed, and keeps track of a counter for the number of times people enter and leave a space.</description>
+    </item>
+    
+  </channel>
+</rss>

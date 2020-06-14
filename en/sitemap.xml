@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost/projects/</loc>
+    <lastmod>2020-06-14T03:32:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/projectss/capacity-monitor/</loc>
+    <lastmod>2020-06-14T03:26:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/projectss/</loc>
+    <lastmod>2020-06-14T03:26:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/</loc>
+    <lastmod>2020-06-14T03:26:48-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost/education/</loc>
+    <lastmod>2020-06-14T02:20:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/work/</loc>
+    <lastmod>2020-06-13T22:07:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost/tags/"
+                />
+  </url>
+  
+</urlset>
