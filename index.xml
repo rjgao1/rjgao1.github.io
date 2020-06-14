@@ -17,17 +17,17 @@
       <pubDate>Sun, 14 Jun 2020 03:32:07 -0400</pubDate>
       
       <guid>http://rjgao.me/projects/</guid>
-      <description>Homeless Shelter Capacity Monitor
+      <description>Homeless Shelter Occupancy Monitor
 AFK, grabbing lunch, more to come!</description>
     </item>
     
     <item>
-      <title>Capacity Monitor</title>
-      <link>http://rjgao.me/capacity-monitor/</link>
+      <title>Occupancy Monitor</title>
+      <link>http://rjgao.me/occupancy-monitor/</link>
       <pubDate>Sun, 14 Jun 2020 03:26:48 -0400</pubDate>
       
-      <guid>http://rjgao.me/capacity-monitor/</guid>
-      <description>Code This open source project&amp;rsquo;s code is not available to the public lives here
+      <guid>http://rjgao.me/occupancy-monitor/</guid>
+      <description>Code This open source project&amp;rsquo;s code is not available to the public lives here.
 Credits this amazing blog from pysource . this amazing blog from pyimagesearch .
 example tensorflow usage from medium user @@madhawavidanapathirana .
 pretrained models provided by this:
@@ -51,7 +51,7 @@ Courseworks include: Deep Learning &amp;amp; Neural Networks, Probabilistic Lear
       <pubDate>Sat, 13 Jun 2020 22:07:51 -0400</pubDate>
       
       <guid>http://rjgao.me/work/</guid>
-      <description>--  Demonware - Activision Blizzard Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware provide services such as matchmaking, in-game purchase and social networking, producing 133,000+ metrics a second and impacting almost half of billion players&amp;rsquo; online gameplay experience.
+      <description>--  Demonware - Activision Blizzard Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware&amp;rsquo;s services include matchmaking, in-game purchase, social networking and many more, producing 133,000+ metrics a second and impacting almost half a billion players&amp;rsquo; online gameplay experience.
 Software Engineering Intern 05/2020 &amp;ndash; present Vancouver, ON
  Wiriting scalable distributed web services for massive online multiplayer video games such as Call of Duty: Warzone and Call of Duty: Modern Warfare.</description>
     </item>
