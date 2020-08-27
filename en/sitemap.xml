@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://rjgao.me/projects/nba-shotchart/</loc>
+    <lastmod>2020-08-17T11:29:12-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rjgao.me/projects/</loc>
+    <lastmod>2020-08-17T11:29:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rjgao.me/</loc>
+    <lastmod>2020-08-17T11:29:12-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://rjgao.me/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://rjgao.me/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://rjgao.me/projects/tweety-pipe/</loc>
+    <lastmod>2020-08-17T11:08:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rjgao.me/projects/all-projects/</loc>
     <lastmod>2020-06-14T03:32:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rjgao.me/occupancy-monitor/</loc>
+    <loc>http://rjgao.me/projects/occupancy-monitor/</loc>
     <lastmod>2020-06-14T03:26:48-04:00</lastmod>
   </url>
   
@@ -33,20 +63,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://rjgao.me/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://rjgao.me/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://rjgao.me/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://rjgao.me/"
                 />
   </url>
   

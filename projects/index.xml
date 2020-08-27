@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rooney Jingyuan Gao</title>
-    <link>http://rjgao.me/</link>
-    <description>Recent content on Rooney Jingyuan Gao</description>
+    <title>Projects on Rooney Jingyuan Gao</title>
+    <link>http://rjgao.me/projects/</link>
+    <description>Recent content in Projects on Rooney Jingyuan Gao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 17 Aug 2020 11:29:12 -0400</lastBuildDate>
     
-	<atom:link href="http://rjgao.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rjgao.me/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -61,27 +61,6 @@ Credits this amazing blog from pysource . this amazing blog from pyimagesearch .
 example tensorflow usage from medium user @@madhawavidanapathirana .
 pretrained models provided by this:
 Description Our application: Our application detects and tracks humans from a live or recorded video feed, and keeps track of a counter for the number of times people enter and leave a space.</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>http://rjgao.me/education/</link>
-      <pubDate>Sun, 14 Jun 2020 02:20:49 -0400</pubDate>
-      
-      <guid>http://rjgao.me/education/</guid>
-      <description>--  University of Toronto, St. George Honours Bachelor of Science Year 4, aGPA: 3.86/4.0
-Specialist: Computer Science, Major: Statistics, Minor: Math 09/2016 &amp;ndash; 01/2021
-Courseworks include: Deep Learning &amp;amp; Neural Networks, Probabilistic Learning, Nonlinear Optimiazation, Operating Systems, Software Engineering, Algorithms &amp;amp; Data Structures</description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>http://rjgao.me/work/</link>
-      <pubDate>Sat, 13 Jun 2020 22:07:51 -0400</pubDate>
-      
-      <guid>http://rjgao.me/work/</guid>
-      <description>--  Activision Blizzard - Demonware Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware&amp;rsquo;s services include matchmaking, in-game purchase, social networking and many more, producing 133,000+ metrics a second and impacting almost half a billion players&amp;rsquo; online gameplay experience.
-Software Engineering Intern Call of Duty Modern Warfare, Warzone, Black Ops Cold War (WATCH THE TRAILER) 05/2020 &amp;ndash; present Toronto, ON</description>
     </item>
     
   </channel>
