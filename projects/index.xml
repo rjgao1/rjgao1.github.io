@@ -32,10 +32,8 @@ The scatter chart visualizes the missed and made shots, while the tooltips displ
       
       <guid>https://rjgao.me/projects/tweety-pipe/</guid>
       <description>A real-time data processor built with Spark and Kafka. Data visualized with a simple Flask app and Chart.js
-This project has two components. The first component is
-twitter-spark This component gives a dynamic bargraph of the trending Twitter hastags, aiming to mimic the Twitter &amp;ldquo;trending&amp;rdquo; function.
-This component streams live tweets, processes and visualizes them in real-time
-It is composed of a Twitter app, a real-time Spark processor and a Flask app.</description>
+Work Summary   Implemented a real-time computer vision program that monitors the availability of homeless shelters in Toronto, using Python, OpencCV and convolutional neural networks.
+  Researched multiple CV frameworks and integrated a centroid tracking algorithm using Numpy to track movements of shelter clients near the entrance, consistently achieving an above-93% accuracy.</description>
     </item>
     
     <item>
