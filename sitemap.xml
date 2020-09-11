@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://rjgao.me/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-08-17T11:29:12-04:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://rjgao.me/fr/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rjgao.me/projects/nba-shotchart/</loc>
+    <lastmod>2020-08-17T11:29:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/projects/</loc>
+    <lastmod>2020-08-17T11:29:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/</loc>
+    <lastmod>2020-08-17T11:29:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/projects/tweety-pipe/</loc>
+    <lastmod>2020-08-17T11:08:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/projects/all-projects/</loc>
+    <lastmod>2020-06-14T03:32:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/projects/occupancy-monitor/</loc>
+    <lastmod>2020-06-14T03:26:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/education/</loc>
+    <lastmod>2020-06-14T02:20:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/work/</loc>
+    <lastmod>2020-06-13T22:07:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rjgao.me/tags/</loc>
+  </url>
+  
+</urlset>
