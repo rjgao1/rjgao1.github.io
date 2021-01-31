@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rooney Jingyuan Gao</title>
-    <link>rjgao1.github.io/projects/</link>
+    <link>https://rjgao1.github.io/projects/</link>
     <description>Recent content in Projects on Rooney Jingyuan Gao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 17 Aug 2020 11:29:12 -0400</lastBuildDate>
     
-	<atom:link href="rjgao1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rjgao1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NBA-Shotchart</title>
-      <link>rjgao1.github.io/projects/nba-shotchart/</link>
+      <link>https://rjgao1.github.io/projects/nba-shotchart/</link>
       <pubDate>Mon, 17 Aug 2020 11:29:12 -0400</pubDate>
       
-      <guid>rjgao1.github.io/projects/nba-shotchart/</guid>
+      <guid>https://rjgao1.github.io/projects/nba-shotchart/</guid>
       <description>An interactive dashboard for NBA player shot data.
 Note: currently under maintaince as NBA has imposed CORS restrictions that prevent the package from being used in a browser directly
 Work Summary   Built and deployed a dashboard using React JS, D3 and Ant Design to visualize NBA players&amp;rsquo; shot performance
@@ -26,10 +26,10 @@ Work Summary   Built and deployed a dashboard using React JS, D3 and Ant Design 
     
     <item>
       <title>Tweety Pipe</title>
-      <link>rjgao1.github.io/projects/tweety-pipe/</link>
+      <link>https://rjgao1.github.io/projects/tweety-pipe/</link>
       <pubDate>Mon, 17 Aug 2020 11:08:44 -0400</pubDate>
       
-      <guid>rjgao1.github.io/projects/tweety-pipe/</guid>
+      <guid>https://rjgao1.github.io/projects/tweety-pipe/</guid>
       <description>A real-time data processor built with Spark and Kafka. Data visualized with a simple Flask app and Chart.js
 Work Summary   Implemented a real-time data processor with Spark and Flask to visualize trending Twitter hashtags
   Designed and implemented a real-time sentiment monitor with Kafka, processing 3500 Tweets per minute
@@ -39,10 +39,10 @@ Work Summary   Implemented a real-time data processor with Spark and Flask to vi
     
     <item>
       <title>Projects</title>
-      <link>rjgao1.github.io/projects/all-projects/</link>
+      <link>https://rjgao1.github.io/projects/all-projects/</link>
       <pubDate>Sun, 14 Jun 2020 03:32:07 -0400</pubDate>
       
-      <guid>rjgao1.github.io/projects/all-projects/</guid>
+      <guid>https://rjgao1.github.io/projects/all-projects/</guid>
       <description>Tweety-Pipe: A Real-Time Data Processor with Spark and Kafka
 NBA-Shortchart: An Interactive Visualization Dashboard for NBA player Shot Data
 AFK, grabbing lunch, more to come!</description>
