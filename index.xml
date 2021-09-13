@@ -54,11 +54,9 @@ AFK, grabbing lunch, more to come!</description>
       <pubDate>Sun, 14 Jun 2020 02:20:49 -0400</pubDate>
       
       <guid>https://rjgao1.github.io/education/</guid>
-      <description>--  University of Toronto, St. George Honours Bachelor of Science Year 5
-Upper-level CS GPA: 3.86/4.0
-Year-4 &amp;amp; Year-5 GPA: 3.92/4.0
-Specialist: Computer Science, Minors: Statistics, Math 09/2016 &amp;ndash; 06/2021
-Courses include: Operating Systems, Software Engineering, Computer Networks, Deep Learning &amp;amp; Neural Networks, Statistical Methods for Machine Learning II, Intro. to Mobile Robotics, Intro. to Image Understanding, Algorithms &amp;amp; Data Structures</description>
+      <description>--  Vanderbilt University Master of Science (May 2023) Major: Computer Science  University of Toronto, St. George Honours Bachelor of Science (June 2021) Specialist: Computer Science, Minors: Statistics, Math Upper-level CS GPA: 3.86/4.0
+Final two-year GPA: 3.92/4.0
+Courses include: Operating Systems, Software Engineering, Computer Networks, Deep Learning &amp;amp; Neural Networks, Statistical ML, Mobile Robotics, Image Understanding, Algorithms &amp;amp; Data Structures, Programming Languages, Parallel Programming</description>
     </item>
     
     <item>
@@ -67,8 +65,9 @@ Courses include: Operating Systems, Software Engineering, Computer Networks, Dee
       <pubDate>Sat, 13 Jun 2020 22:07:51 -0400</pubDate>
       
       <guid>https://rjgao1.github.io/work/</guid>
-      <description>--  Activision Blizzard - Demonware Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware&amp;rsquo;s services include matchmaking, in-game purchase, social networking and many more, producing 133,000+ metrics a second and impacting almost half a billion players&amp;rsquo; online gameplay experience.
-Software Engineering Intern Call of Duty Modern Warfare, Warzone, Black Ops Cold War (WATCH THE TRAILER) 05/2020 &amp;ndash; 08/2020 Toronto, ON</description>
+      <description>--  Activision Blizzard - Demonware Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware&amp;rsquo;s services include matchmaking, in-game purchase, social networking and many more, impacting almost half a billion players&amp;rsquo; online gameplay experience.
+Software Engineering Intern Call of Duty Modern Warfare, Warzone, Black Ops Cold War (WATCH THE TRAILER) 05/2020 &amp;ndash; 08/2020 Toronto, ON
+  Wrote scalable distributed web services in Python for major titles with 75+ of millions of players, deploying and troubleshooting in containerized live environments using Docker, Kubernetes and Jenkins.</description>
     </item>
     
   </channel>
