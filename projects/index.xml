@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 17 Aug 2020 11:29:12 -0400</lastBuildDate>
-    
-	<atom:link href="https://rjgao1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 17 Aug 2020 11:29:12 -0400</lastBuildDate><atom:link href="https://rjgao1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NBA-Shotchart</title>
       <link>https://rjgao1.github.io/projects/nba-shotchart/</link>
@@ -20,8 +16,9 @@
       <guid>https://rjgao1.github.io/projects/nba-shotchart/</guid>
       <description>An interactive dashboard for NBA player shot data.
 Note: currently under maintaince as NBA has imposed CORS restrictions that prevent the package from being used in a browser directly
-Work Summary   Built and deployed a dashboard using React JS, D3 and Ant Design to visualize NBA players&amp;rsquo; shot performance
-  Improved user experience by adding 4 data filters and an autocomplete search bar providing player image preview</description>
+Work Summary Built and deployed a dashboard using React JS, D3 and Ant Design to visualize NBA players&amp;rsquo; shot performance
+Improved user experience by adding 4 data filters and an autocomplete search bar providing player image preview
+Developed 2 shot themes to demonstrate frequency-efficiency and distance-action relations</description>
     </item>
     
     <item>
@@ -31,10 +28,10 @@ Work Summary   Built and deployed a dashboard using React JS, D3 and Ant Design 
       
       <guid>https://rjgao1.github.io/projects/tweety-pipe/</guid>
       <description>A real-time data processor built with Spark and Kafka. Data visualized with a simple Flask app and Chart.js
-Work Summary   Implemented a real-time data processor with Spark and Flask to visualize trending Twitter hashtags
-  Designed and implemented a real-time sentiment monitor with Kafka, processing 3500 Tweets per minute
-  Visualized results with Ajax and Chart.js for 1% of all public Tweets
-  Technologies involved: Python, Spark, Kafka, Flask, Google Compute Engine, Twitter API</description>
+Work Summary Implemented a real-time data processor with Spark and Flask to visualize trending Twitter hashtags
+Designed and implemented a real-time sentiment monitor with Kafka, processing 3500 Tweets per minute
+Visualized results with Ajax and Chart.js for 1% of all public Tweets
+Technologies involved: Python, Spark, Kafka, Flask, Google Compute Engine, Twitter API</description>
     </item>
     
     <item>

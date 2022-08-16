@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 17 Aug 2020 11:29:12 -0400</lastBuildDate>
-    
-	<atom:link href="https://rjgao1.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 17 Aug 2020 11:29:12 -0400</lastBuildDate><atom:link href="https://rjgao1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NBA-Shotchart</title>
       <link>https://rjgao1.github.io/projects/nba-shotchart/</link>
@@ -20,8 +16,9 @@
       <guid>https://rjgao1.github.io/projects/nba-shotchart/</guid>
       <description>An interactive dashboard for NBA player shot data.
 Note: currently under maintaince as NBA has imposed CORS restrictions that prevent the package from being used in a browser directly
-Work Summary   Built and deployed a dashboard using React JS, D3 and Ant Design to visualize NBA players&amp;rsquo; shot performance
-  Improved user experience by adding 4 data filters and an autocomplete search bar providing player image preview</description>
+Work Summary Built and deployed a dashboard using React JS, D3 and Ant Design to visualize NBA players&amp;rsquo; shot performance
+Improved user experience by adding 4 data filters and an autocomplete search bar providing player image preview
+Developed 2 shot themes to demonstrate frequency-efficiency and distance-action relations</description>
     </item>
     
     <item>
@@ -31,10 +28,10 @@ Work Summary   Built and deployed a dashboard using React JS, D3 and Ant Design 
       
       <guid>https://rjgao1.github.io/projects/tweety-pipe/</guid>
       <description>A real-time data processor built with Spark and Kafka. Data visualized with a simple Flask app and Chart.js
-Work Summary   Implemented a real-time data processor with Spark and Flask to visualize trending Twitter hashtags
-  Designed and implemented a real-time sentiment monitor with Kafka, processing 3500 Tweets per minute
-  Visualized results with Ajax and Chart.js for 1% of all public Tweets
-  Technologies involved: Python, Spark, Kafka, Flask, Google Compute Engine, Twitter API</description>
+Work Summary Implemented a real-time data processor with Spark and Flask to visualize trending Twitter hashtags
+Designed and implemented a real-time sentiment monitor with Kafka, processing 3500 Tweets per minute
+Visualized results with Ajax and Chart.js for 1% of all public Tweets
+Technologies involved: Python, Spark, Kafka, Flask, Google Compute Engine, Twitter API</description>
     </item>
     
     <item>
@@ -54,9 +51,9 @@ AFK, grabbing lunch, more to come!</description>
       <pubDate>Sun, 14 Jun 2020 02:20:49 -0400</pubDate>
       
       <guid>https://rjgao1.github.io/education/</guid>
-      <description>--  Vanderbilt University Master of Science (May 2023) Major: Computer Science  University of Toronto, St. George Honours Bachelor of Science (June 2021) Specialist: Computer Science, Minors: Statistics, Math Upper-level CS GPA: 3.86/4.0
+      <description>Vanderbilt University Master of Science (May 2023) Major: Computer Science University of Toronto, St. George Honours Bachelor of Science (June 2021) Specialist: Computer Science, Minors: Statistics, Math Upper-level CS GPA: 3.86/4.0
 Final two-year GPA: 3.92/4.0
-Courses include: Operating Systems, Software Engineering, Computer Networks, Deep Learning &amp;amp; Neural Networks, Statistical ML, Mobile Robotics, Image Understanding, Algorithms &amp;amp; Data Structures, Programming Languages, Parallel Programming</description>
+Courses include: Operating Systems, Parallel Programming, Computer Networks, Deep Learning &amp;amp; Neural Networks, Statistical ML, Mobile Robotics, Image Understanding, Software Engineering, Algorithms &amp;amp; Data Structures, Programming Languages</description>
     </item>
     
     <item>
@@ -65,9 +62,10 @@ Courses include: Operating Systems, Software Engineering, Computer Networks, Dee
       <pubDate>Sat, 13 Jun 2020 22:07:51 -0400</pubDate>
       
       <guid>https://rjgao1.github.io/work/</guid>
-      <description>--  Activision Blizzard - Demonware Demonware is an Activision Blizzard studio that provides online web services for some of the world&amp;rsquo;s largest video game franchises. Demonware&amp;rsquo;s services include matchmaking, in-game purchase, social networking and many more, impacting almost half a billion players&amp;rsquo; online gameplay experience.
-Software Engineering Intern Call of Duty Modern Warfare, Warzone, Black Ops Cold War (WATCH THE TRAILER) 05/2020 &amp;ndash; 08/2020 Toronto, ON
-  Wrote scalable distributed web services in Python for major titles with 75+ of millions of players, deploying and troubleshooting in containerized live environments using Docker, Kubernetes and Jenkins.</description>
+      <description>LinkedIn - Ads Serving LinkedIn Ads - Worked on LinkedIn&amp;rsquo;s real-time ads bidding system to serve high-quality ads to hundreds of millions of members when they are not on LinkedIn, expanding reach and driving superior monetary and marketing results
+Software Engineer Intern 05/2022 &amp;ndash; 08/2022 Mountain View, CA
+Designed and developed a distributed remote cache for LinkedIn’s real-time bidding system with 1 million peak QPS using Java.
+Reduced the end-to-end latency for real-time creative rendering by ~40% and improved the cache hit rate by 62% in production, enabling AI-powered and SLA-aware features to serve higher-quality ads.</description>
     </item>
     
   </channel>
